@@ -19,11 +19,14 @@ A mobile app for tracking all people who might have been in contact with infecte
 
 #   Methodology: 
 
-  1.  App that has input interface to input the data of a person’s location at various times of day. 
+  1.  App that has input interface to input the data of a person’s location (it be a tabular data based on the inputs to the input box from the user) at various times of day. 
 
-That is, in the input box, the mobile user will input the time of the day and will choose the place location from google map. So, location in terms of google map data acan be tabulated against time for each mobile user. 
+That is, in the input box, the mobile user will input the 
+a) time of the day and 
+b) will choose the place location from google map. 
+So, location in terms of google map data can be tabulated against time for each mobile user. 
 
-The most important, benefit in this method against live tracking of each mobile through GPS is that user can input historic data too, I.e. past 10 days or so and location services directly accessing through mobile devices is a great privacy threat. 
+The most important, benefit in this method against live tracking of each mobile through GPS is that user can input historic data too, i.e. past 10 days or so and location services directly accessing through mobile devices is a great privacy threat. 
 
  2.   Each user data table will be stored locally first and will be given a key with age and gender information only. So, the app will send the USER LOCATION TABLE to the server only using the unique key. So, the app could not be a security threat for location. And this step needs to be though upon again. 
 
