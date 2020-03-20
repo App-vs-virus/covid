@@ -1,5 +1,5 @@
 # covid
-A mobile app for tracking all people who might have been in contact with infected using places of visits. Predicting the spread from infected to others.
+A mobile app for tracking all people who might have been in contact with infected using places of visits. Predicting the spread from infected to others. And warning those who need self-quarantine based on chain of infections from the infected.
 
 ## Warning: Each minute cases are increasing! Hurry.
 
