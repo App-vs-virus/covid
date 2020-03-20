@@ -1,5 +1,5 @@
 # covid
-A mobile app for tracking all people who might have been in contact with infected.
+A mobile app for tracking all people who might have been in contact with infected using places of visits. Predicting the spread from infected to others.
 
 ## Warning: Each minute cases are increasing! Hurry.
 
@@ -39,7 +39,7 @@ Also, if possible we  would try to input the location details of the infected us
 
  
 
-Some possible problems and solutions: 
+# Some possible problems and solutions: 
 
 1.    The machine learning model will be overloaded with data if the number of users’ are many. 
 
@@ -53,7 +53,7 @@ The geographical hierarchal distributed model will work (as per my analysis) bec
 
  
 
-Final words: 
+# Final words: 
 
 1.    Tracking is the main problem of corona and this scheme will focus to provide warnings as per travel and presence data, identify potential individuals infected (as indian systems for testing the virus is needing help  ) 
 
@@ -77,4 +77,4 @@ https://t.me/joinchat/KHVQux177rrxNkUnhx84_A
 
  
 
-Please join and give ideas and contribution. # share pleaseProposal for Corona Tracking App 
+####### Please join and give ideas and contribution. # share pleaseProposal for Corona Tracking App 
