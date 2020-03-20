@@ -26,19 +26,19 @@ a) time of the day and
 b) will choose the place location from google map. 
 So, location in terms of google map data can be tabulated against time for each mobile user. 
 
-The most important, benefit in this method against live tracking of each mobile through GPS is that user can input historic data too, i.e. past 10 days or so and location services directly accessing through mobile devices is a great privacy threat. 
+The most important, benefit in this method against live tracking of each mobile through GPS is that user can input historic data too, i.e. past 10 days or so and location services directly accessing through mobile devices is a great privacy threat (so we are not using the mobile device location services). 
 
- 2.   Each user data table will be stored locally first and will be given a key with age and gender information only. So, the app will send the USER LOCATION TABLE to the server only using the unique key. So, the app could not be a security threat for location. And this step needs to be though upon again. 
+ 2.   Each user data table will be stored locally first and will be given a key (with age and gender) information only. So, the app will send the USER LOCATION TABLE (a table of 2 columns : time + user inputted location) to the server only using the unique key. So, the app could not be a security threat for location. (And this step needs to be though upon again.) 
 
-Also, if possible we  would try to input the location details of the infected users as much as possible from news and other sources. 
+Also, if possible we  would try to input the location details of the infected users as much as possible from news and other sources.(Admin previledges) 
 
  3.   Now, the  server will have the tables with two columns with first column having time and second column with the google map location. Then the table could be converted into routes in map and user could even be prompted if the route constructed is the one he/she took. 
 
- 4.   From the travel route network constructed in step 3, we could use a machine learning model  (graph and network analysis based on the fact that the virus takes 12 hours to die, and so the spreading pattern and the places) to warn the people who were in vicinity of infected people and those in threat from them. 
+ 4.   From the travel route network constructed in step 3, we could use a machine learning model  (graph and network analysis based on the fact that the virus takes 12 hours to die, and so the spreading pattern and the places visited) to warn the people who were in vicinity of infected people and those in threat from them. 
 
 5.    The warning could be sent to the app user. And the user can also input the travelling plans that, he/she will take and we could predict the safest path. 
 
-6.    Future scope is open to all for recommendation. 
+6.    Future scope is open to all for recommendation. There will be many waves of potential threat, direct threat: those in direct contact, secondary threat: those in contact with direct threat, tertiary threat: those in contact with secondary threat.
 
  
 
@@ -50,9 +50,9 @@ So, solution is to distribute the model to the systems of the developers willing
 
 The geographical hierarchal distributed model will work (as per my analysis) because as per advisory of the government mostly people are remaining in their houses mostly. The system will be like the cellular-concept that each local system in an area like a mobile tower in cellular network is responsible for all people in that range, then in hierarchy, it is headed by BSS and all BSS by MSS. 
 
-2.    Privacy: recommendations are welcome. 
+2.    Privacy: (recommendations are welcome.) 
 
-3.    Time, its only solution is how quickly we respond. 
+3.    Time, (its only solution is how quickly we respond.) 
 
  
 
@@ -66,7 +66,6 @@ As many developers can join, should join as the more the merrier. We want local 
 
 The faster we respond, much effective will be the solution. As early people start using it, as large data pool we can analyze. 
 
- 
 
 # Spread to as many people as possible. To contribute your help: 
 
