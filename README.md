@@ -13,3 +13,8 @@ An app for tracking all people who might have been in contact with infected.
  https://www.bing.com/covid
  
  https://app.developer.here.com/coronavirus/
+ 
+ 
+ # Test Centers:
+
+https://www.google.com/maps/d/u/0/viewer?mid=1YfaJKmfs2xnuqXjOyHXxVR6ZFZtZnU6N&ll=31.775253655829985%2C81.57974966058077&z=8
