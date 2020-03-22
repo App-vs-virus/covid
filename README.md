@@ -1,3 +1,5 @@
+# Web-Site folder is the one we are working currently
+
 # covid
 An app for tracking all people who might have been in contact with infected.
 1.  just download the sample-map file on your system and the readme in that folder will guide you.
